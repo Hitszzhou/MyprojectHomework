@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667222542 source:g:\myschoolproject\project9\project9\project9.3.0\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

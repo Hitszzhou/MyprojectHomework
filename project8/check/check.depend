@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666753508 source:g:\myschoolproject\project8\check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

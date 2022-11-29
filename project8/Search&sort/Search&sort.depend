@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667088789 source:g:\myschoolproject\project8\search&sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
